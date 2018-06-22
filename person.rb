@@ -9,7 +9,7 @@ class Person
   end
 end
  
-lassie = Dog.new
-lassie.name = "Lassie"
+beyonce = Person.new
+beyonce.name = "Beyonce"
  
-puts lassie.name
+puts beyonce.name
